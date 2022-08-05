@@ -3,11 +3,11 @@
 <h3 align="center">A lifelong learner and passionate Full Stack Developer from Argentina</h3>
 <img align="right" alt="Coding pc" width="400" src="https://cdn.dribbble.com/users/505482/screenshots/1776789/nodejs-dribbble_1.gif"
 
-🌱 I’m currently working on **my coding skills, improving everyday.**
+🌱 I’m currently working on my **coding skills**, improving everyday.
 
-👨‍💻 All of my projects are available at **GitHub.** _(just scroll down a little bit more)_
+👨‍💻 All of my projects are available at **GitHub.** _(scroll down a little bit more)_
 
-💬 Ask me about **PERN Stack or JavaScript in general.**
+💬 Ask me about **PERN Stack** or **JavaScript** in general.
 
 <br/>
 
