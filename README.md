@@ -1,6 +1,6 @@
 ![MasterHead](https://www.intelegain.com/wp-content/uploads/2019/08/1_OF0xEMkWBv-69zvmNs6RDQ.gif)
 <h1 align="center">Oh, hey!<br/><br/>I'm Santiago (Germán) Avalos</h1>
-<h3 align="center">A lifelong learner and passionate Full Stack Developer from Argentina</h3>
+<h3 align="center">A lifelong learner and dedicated Full Stack Developer from Argentina</h3>
 <img align="right" alt="Coding pc" width="400" src="https://cdn.dribbble.com/users/505482/screenshots/1776789/nodejs-dribbble_1.gif"
 
 🌱 I’m currently working on my **coding skills**, improving everyday.
