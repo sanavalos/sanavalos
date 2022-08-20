@@ -5,7 +5,7 @@
 
 🌱 I’m currently working on my **coding skills**, improving everyday.
 
-👨‍💻 All of my projects are available at **GitHub.** _(scroll down a little bit more)_
+👨‍💻 All of my public projects are available at **GitHub.** _(scroll down a little bit more)_
 
 💬 Ask me about **PERN Stack** or **JavaScript** in general.
 
