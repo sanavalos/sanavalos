@@ -2,9 +2,9 @@
 <h1 align="center">I'm Santiago (Germán) Avalos</h1>
 <h3 align="center">A lifelong learner and dedicated Full Stack Developer from Argentina</h3>
 
-🙋‍♂️ I’m here to be part of the community as a JavaScript developer, contributing my knwoledge and projects.
+🙋‍♂️ I’m here to be part of the community as a web developer, contributing my knowledge and projects.
 
-🌱 I’m currently working on my **coding skills**, improving everyday.
+🌱 I’m currently working on **Freight Management Software**, using React, Django and PostgreSQL.
 
 👨‍💻 All of my public projects are available at **GitHub.** _(scroll down a little bit more)_
 
